@@ -4,6 +4,8 @@ const fn = () => {
     console.log(b)
     console.log('hola mundo')
 
+}
+
 fn()
 
 const clickeado = () => {
